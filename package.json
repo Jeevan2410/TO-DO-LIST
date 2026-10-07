@@ -1,0 +1,12 @@
+{
+  "name": "todo-list",
+  "private": true,
+  "type": "module",
+  "description": "To-do list with drag to reorder, undo, filters and motion design; no build step",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
